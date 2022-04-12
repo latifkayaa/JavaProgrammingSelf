@@ -6,7 +6,7 @@ public class Test {
         d1.work();
         System.out.println(d1);
 
-        Tester t1= new Tester("Mike", 34, 'M', 10, 90000, "ZeroBank");
+        Tester t1= new Tester("Ali", 34, 'M', 10, 90000, "ZeroBank");
         t1.work();
         System.out.println(t1);
     }
