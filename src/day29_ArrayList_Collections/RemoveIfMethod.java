@@ -1,6 +1,6 @@
 package day29_ArrayList_Collections;
 
-import day30_CustomClass.utilities.StringUtility;
+import utilities.StringUtility;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,6 +1,6 @@
 package day25_CustomMethods_Overloading;
 
-import day30_CustomClass.utilities.ArraysUtility;
+import utilities.ArraysUtility;
 
 import java.util.Arrays;
 

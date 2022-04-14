@@ -1,4 +1,4 @@
-package day30_CustomClass.utilities;
+package utilities;
 
 import java.util.Arrays;
 

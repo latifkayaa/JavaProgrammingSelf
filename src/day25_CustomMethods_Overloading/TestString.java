@@ -1,6 +1,6 @@
 package day25_CustomMethods_Overloading;
 
-import day30_CustomClass.utilities.StringUtility;
+import utilities.StringUtility;
 
 public class TestString {
     public static void main(String[] args) {

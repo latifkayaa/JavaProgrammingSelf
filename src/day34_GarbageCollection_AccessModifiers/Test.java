@@ -1,7 +1,7 @@
 package day34_GarbageCollection_AccessModifiers;
 import static day34_GarbageCollection_AccessModifiers.Circle.*;
 
-import static day30_CustomClass.utilities.MathUtility.*;
+import static utilities.MathUtility.*;
 
 public class Test {
     public static void main(String[] args) {
